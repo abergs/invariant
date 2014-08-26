@@ -1,6 +1,6 @@
 {
   "name": "invariant",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use invariant() to assert state which your program assumes to be true",
   "main": "index.js",
   "scripts": {
